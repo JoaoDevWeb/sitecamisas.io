@@ -1,0 +1,37 @@
+.nav{
+    background-color: #27ae60;
+    padding: 10px;
+}
+.nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+    color:#fff;
+}
+.grid{
+    margin-top: 25px;
+    width: 200px;
+}
+
+.header{
+    text-align: center;
+    margin-top: 25px;
+}
+
+body{
+    background-color: #eeeeee;
+}
+
+.produtos{
+    margin-top: 10px;
+}
+
+.btn{
+    background-color: #2ecc71;
+    color:#fff;
+}
+
+.btn:hover{
+    background-color: #27ae60;
+    color: #fff;
+}
